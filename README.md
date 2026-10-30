@@ -415,7 +415,7 @@ These are possible improvements, not claims that the features are already implem
 Computer Science and Engineering student interested in software engineering, backend development, AI/ML and building developer-focused tools.
 
 - **GitHub:** [MrinmoyNandi](https://github.com/MrinmoyNandi)
-- **Portfolio:** `<!-- UPDATE_WITH_YOUR_PORTFOLIO_URL -->`
+
 
 <!-- Add your portfolio link above when your website is ready. -->
 
